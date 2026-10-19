@@ -1,0 +1,6 @@
+{
+  "name": "智慧清冰箱大廚 SmartFridge Chef",
+  "description": "AI 拍照多模態辨識冰箱食材、客製設備與飲食風格推薦食譜、動態換菜與煮後庫存自動扣除",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
